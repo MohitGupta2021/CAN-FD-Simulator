@@ -1,0 +1,17 @@
+../Core/Src/main.c:75:5:uart1_putchar	16	static
+../Core/Src/main.c:79:5:uart3_putchar	16	static
+../Core/Src/main.c:85:5:__io_putchar	16	static
+../Core/Src/main.c:95:6:Transmit_Data	16	static
+../Core/Src/main.c:106:6:Transmit_Data_EXTENDED_ID	16	static
+../Core/Src/main.c:124:5:main	16	static
+../Core/Src/main.c:289:6:SystemClock_Config	88	static
+../Core/Src/main.c:336:13:MX_FDCAN1_Init	8	static
+../Core/Src/main.c:376:13:MX_FDCAN2_Init	8	static
+../Core/Src/main.c:419:13:MX_LPUART1_UART_Init	8	static
+../Core/Src/main.c:463:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:508:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:553:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:601:13:FDCAN_Config	72	static
+../Core/Src/main.c:650:13:FDCAN_Config2	40	static
+../Core/Src/main.c:695:6:HAL_FDCAN_RxFifo0Callback	304	static
+../Core/Src/main.c:853:6:Error_Handler	4	static
