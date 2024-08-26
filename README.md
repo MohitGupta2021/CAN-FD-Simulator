@@ -57,7 +57,7 @@ Open a serial terminal program (e.g., PuTTY, Tera Term) on your computer to view
 
 # Result Project Images
 
-- <img src="https://github.com/MohitGupta2021/CAN-FD-Simulator/blob/main/images/CANFD_Simulator.png" alt="Image 1" width="400"/>
+- <img src="https://github.com/MohitGupta2021/CAN-FD-Simulator/blob/main/images/CANFD_Simulator.png" alt="Image 1" width="800"/>
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
