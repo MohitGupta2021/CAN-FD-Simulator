@@ -55,8 +55,9 @@ Use a CAN FD tool to monitor the CAN bus. Configure the tool to listen to the CA
 
 Open a serial terminal program (e.g., PuTTY, Tera Term) on your computer to view UART data. Ensure the terminal settings match the UART configuration used in the STM32 project.
 
-# Result Project Image
+# Result Project Images
 
+- <img src="https://github.com/MohitGupta2021/CAN-FD-Simulator/blob/main/images/CANFD_Simulator.png" alt="Image 1" width="400"/>
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
