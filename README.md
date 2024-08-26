@@ -24,8 +24,8 @@ CAN FD Tool: For interacting with CAN networks (e.g., Vector CANoe, PCAN-View)
 ### Getting Started
 1. Clone the Repository
 Start by cloning the repository to your local machine:
-git clone https://github.com/MohitGupta2021/Canfd_simulator.git
-cd Canfd_simulator
+git clone https://github.com/MohitGupta2021/CAN-FD-Simulator.git
+cd CAN-FD-Simulator
 2. Open and Configure the Project
 Open in STM32CubeIDE
 Open the project in STM32CubeIDE or Keil MDK.
